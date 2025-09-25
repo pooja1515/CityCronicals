@@ -28,10 +28,9 @@ This project is especially useful for:
 ---
 
 ## 🛠️ Tech Stack
-- **Language Models:** BERT (mBERT / IndicBERT)  
+- **Language Models:** BERT  
 - **NLP Frameworks:** Hugging Face Transformers, NLTK, SpaCy  
-- **Backend:** Python 3.11  
-- **Database:** FAISS / Chroma (for embeddings & retrieval)  
+- **Backend:** Python 3.11    
 - **Frontend:** Streamlit (optional UI for demos)  
 
 ---
